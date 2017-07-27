@@ -1,0 +1,16 @@
+body {
+  align-items: center;
+  background: #000;
+  display: flex;
+  flex-direction: column;
+}
+
+img {
+  height: auto;
+  width: 600px;
+}
+
+.spacer-block {
+  display: block;
+  height: 720px;
+}
